@@ -11,7 +11,7 @@ Week |	Topics|	Mini-project |
 | 4 |	Lists, keyboard input, motion, positional/velocity control |	['Pong' Game](http://www.codeskulptor.org/#user38_ogKyW7tU45jrxf2.py) |
 | 5 |	Mouse input, more lists, dictionaries, images	| ['Memory' Game](http://www.codeskulptor.org/#user38_INhmGWdeT37h0bd_1.py) |
 | 6 |	Classes, tiled images	| ['Blackjack' Game](http://www.codeskulptor.org/#user38_U1JiggRvMIYKGOt.py) |
-| 7 |	Acceleration and friction, spaceship class, sprite class, sound	| [Spaceship for 'RiceRocks' Game (WIP)](http://www.codeskulptor.org/#user38_kTmaN30aDT_21.py) |
+| 7 |	Acceleration and friction, spaceship class, sprite class, sound	| [Spaceship for 'RiceRocks' Game](http://www.codeskulptor.org/#user38_kTmaN30aDT_21.py) |
 | 8 |	Sets, groups of sprites, collisions, sprite animation	| ['RiceRocks' Game](http://www.codeskulptor.org/#user38_XaT7V6CTMX_68.py) |
 
 ----
